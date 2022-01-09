@@ -8,7 +8,7 @@ namespace myapp
         {
             
             Console.WriteLine("Hi all two!");
-            Console.WriteLine("Hi all two!");
+            Console.WriteLine("Hi Team!");
         
         }
     }
